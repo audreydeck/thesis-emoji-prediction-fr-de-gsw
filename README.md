@@ -2,8 +2,8 @@
 
 ## corpus
 
-- *corpus_gws_WITH_emojis* et *corpus_gws-fr_WITH_emojis* : corpus avec les émojis.
-- *corpus_gws_WITHOUT_emojis* et *corpus_gws-fr_WITHOUT_emojis* : corpus sans les émojis utilisés pour la prédiction.
+- *corpus_gsw_WITH_emojis* et *corpus_gsw-fr_WITH_emojis* : corpus avec les émojis.
+- *corpus_gsw_WITHOUT_emojis* et *corpus_gsw-fr_WITHOUT_emojis* : corpus sans les émojis utilisés pour la prédiction.
 
 ## lexiques
 
@@ -21,6 +21,6 @@ Workflows utilisés pour la prédiction des émojis et l'analyse des corpus.
 
 Scripts twint et facebook-scrapper utilisés pour générer les corpus.
 
-## gws_stopword.txt
+## gsw_stopword.txt
 
 Liste de stopwords utilisés pour la normalisation des corpus alsacien et franco-alsacien.
