@@ -7,11 +7,17 @@
 
 ## lexiques
 
-Les lexiques français, allemand et alsacien utilisés pour la prédiction sous format CSV et TAB.
+Les lexiques utilisés pour la prédiction sous format CSV et TAB.
+Liste des lexiques :
+  - allemand
+  - alsacien
+  - alsacien-allemand
+  - français
+  - franco-allemand
 
 ## orange resultats
 
-Resultats obtenus pour la prédiction des émojis.
+Résultats obtenus pour la prédiction des émojis.
 
 ## orange workflows
 
